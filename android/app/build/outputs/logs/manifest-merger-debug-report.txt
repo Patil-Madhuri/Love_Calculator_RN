@@ -1,0 +1,472 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-screens] /Users/nehagulati/Desktop/demo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/nehagulati/Desktop/demo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/nehagulati/Desktop/demo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/c610bcb5799b2881976dc22b1d412df3/AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-permissions] /Users/nehagulati/Desktop/demo/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4acb5454e5615b801efb18b1516e62cf/AndroidManifest.xml:17:1-22:12
+MERGED from [:unimodules-react-native-adapter] /Users/nehagulati/Desktop/demo/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] /Users/nehagulati/Desktop/demo/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/nehagulati/Desktop/demo/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /Users/nehagulati/Desktop/demo/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/nehagulati/Desktop/demo/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /Users/nehagulati/Desktop/demo/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /Users/nehagulati/Desktop/demo/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /Users/nehagulati/Desktop/demo/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/nehagulati/Desktop/demo/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/7e9285c2d4531e63caba5c188f573a4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/6815d4ee6026f4d88a6aaad4f275da46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5429207bd95454bab6b51ef702c30d2c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/2e2a5c314a5b882e2ae6ee4636b94e43/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/488b42f2312ff5d12bd15413f9d6ccfd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/bd90a9ce42494780411f42f5aea27f6a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9ae875933d37067f28812b26ad0b4779/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/3cfd1aa0e992a39a551ff2e21d398406/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/2633cb1468cf51edf9802a662453d0e2/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/68a79bf9cf7df82d623910031b4f4e6e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/d596c7d880cd68b40438292a67fb098a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/610c5b565c1e87b57e63ff92f929be07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2643fb85adc5192e528499483595f7cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/a9f7b12cfd55781bf4d74be49c0ec166/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/366d43ebdaadad8cbb32e7b25cf6b26c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/145cfdb1f08fef5f4758c10fceae40a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/88de2117d6670fd1e91891722f3fbd0a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/7c607dfd2a09df8e8ec1ed41e10f8351/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/74640ffd4124306753b4535307b2cbaf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/3ff00eb0ed145b462e72a84bdf32aa94/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c6d8513546ae36141ce64635d188c776/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2aec92e79756538c6c00d34c94430c1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/82ef3f45fb6631ef52c25a54c46cf739/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d8949c02b7e6861765dc61cb527ec3dd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/918f2fa4090ac9ea145e8a0c5e2d43b7/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b8f2d8ef5567afde2e6397385919658b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/57e7062e9f7adf73c5e826d1acf5a91a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2ad7f8cfc071b40967f72eb3d5095b55/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b54875b46b4e4a9913842485246806c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/fad1ee0549d73ea889463a2db4ff1eee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/11658aa890d81b84e22e2eb39849ec87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/f87af231f4b6129475488a0891dc03c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/5f077ff2c2ce886d1a56a1b7d64bb58a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/d42826dab7eea9b7dd9ea0cac1f0659e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9e15126a09a55a21f3077414a4a647d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/15f9cf279aa2d9119a80a4b5300d40bf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/8e7da2263974039744421919e3404733/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/98ea88824bcaf2441ae22f79d76672aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/3e076dc62d171dc99f25c0296454fa31/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/f39bc98d2b9eeb260eed78fb528948ea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/9a8276f108b6d8eb313f36181b07bcfb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a0d777f65c09a5972b19ecf83db6fa54/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/53176990a088dcb6c9c82c4596fdf2ba/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:24:22-78
+application
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/c610bcb5799b2881976dc22b1d412df3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/c610bcb5799b2881976dc22b1d412df3/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5429207bd95454bab6b51ef702c30d2c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5429207bd95454bab6b51ef702c30d2c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/2e2a5c314a5b882e2ae6ee4636b94e43/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/2e2a5c314a5b882e2ae6ee4636b94e43/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/488b42f2312ff5d12bd15413f9d6ccfd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/488b42f2312ff5d12bd15413f9d6ccfd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/bd90a9ce42494780411f42f5aea27f6a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/bd90a9ce42494780411f42f5aea27f6a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9ae875933d37067f28812b26ad0b4779/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9ae875933d37067f28812b26ad0b4779/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/2633cb1468cf51edf9802a662453d0e2/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/2633cb1468cf51edf9802a662453d0e2/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d8949c02b7e6861765dc61cb527ec3dd/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d8949c02b7e6861765dc61cb527ec3dd/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/918f2fa4090ac9ea145e8a0c5e2d43b7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/918f2fa4090ac9ea145e8a0c5e2d43b7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/15f9cf279aa2d9119a80a4b5300d40bf/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/15f9cf279aa2d9119a80a4b5300d40bf/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a0d777f65c09a5972b19ecf83db6fa54/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a0d777f65c09a5972b19ecf83db6fa54/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d8949c02b7e6861765dc61cb527ec3dd/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:32:7-39
+	android:icon
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:31:7-34
+	android:allowBackup
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.lovecalc.MainActivity
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-screens] /Users/nehagulati/Desktop/demo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/nehagulati/Desktop/demo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/nehagulati/Desktop/demo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/nehagulati/Desktop/demo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/nehagulati/Desktop/demo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/nehagulati/Desktop/demo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/c610bcb5799b2881976dc22b1d412df3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.59.10.aar/c610bcb5799b2881976dc22b1d412df3/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/nehagulati/Desktop/demo/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/nehagulati/Desktop/demo/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4acb5454e5615b801efb18b1516e62cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4acb5454e5615b801efb18b1516e62cf/AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-react-native-adapter] /Users/nehagulati/Desktop/demo/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/nehagulati/Desktop/demo/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/nehagulati/Desktop/demo/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/nehagulati/Desktop/demo/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/nehagulati/Desktop/demo/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/nehagulati/Desktop/demo/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /Users/nehagulati/Desktop/demo/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/nehagulati/Desktop/demo/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/nehagulati/Desktop/demo/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/nehagulati/Desktop/demo/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/nehagulati/Desktop/demo/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/nehagulati/Desktop/demo/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/nehagulati/Desktop/demo/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/nehagulati/Desktop/demo/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/nehagulati/Desktop/demo/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/nehagulati/Desktop/demo/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/nehagulati/Desktop/demo/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/nehagulati/Desktop/demo/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/nehagulati/Desktop/demo/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/7e9285c2d4531e63caba5c188f573a4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/7e9285c2d4531e63caba5c188f573a4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/6815d4ee6026f4d88a6aaad4f275da46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/6815d4ee6026f4d88a6aaad4f275da46/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5429207bd95454bab6b51ef702c30d2c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5429207bd95454bab6b51ef702c30d2c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/2e2a5c314a5b882e2ae6ee4636b94e43/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/2e2a5c314a5b882e2ae6ee4636b94e43/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/488b42f2312ff5d12bd15413f9d6ccfd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/488b42f2312ff5d12bd15413f9d6ccfd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/bd90a9ce42494780411f42f5aea27f6a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/bd90a9ce42494780411f42f5aea27f6a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9ae875933d37067f28812b26ad0b4779/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9ae875933d37067f28812b26ad0b4779/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/3cfd1aa0e992a39a551ff2e21d398406/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/3cfd1aa0e992a39a551ff2e21d398406/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/2633cb1468cf51edf9802a662453d0e2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/2633cb1468cf51edf9802a662453d0e2/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/68a79bf9cf7df82d623910031b4f4e6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/68a79bf9cf7df82d623910031b4f4e6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/d596c7d880cd68b40438292a67fb098a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/d596c7d880cd68b40438292a67fb098a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/610c5b565c1e87b57e63ff92f929be07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/610c5b565c1e87b57e63ff92f929be07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2643fb85adc5192e528499483595f7cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2643fb85adc5192e528499483595f7cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/a9f7b12cfd55781bf4d74be49c0ec166/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/a9f7b12cfd55781bf4d74be49c0ec166/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/366d43ebdaadad8cbb32e7b25cf6b26c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/366d43ebdaadad8cbb32e7b25cf6b26c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/145cfdb1f08fef5f4758c10fceae40a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/145cfdb1f08fef5f4758c10fceae40a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/88de2117d6670fd1e91891722f3fbd0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/88de2117d6670fd1e91891722f3fbd0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/7c607dfd2a09df8e8ec1ed41e10f8351/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/7c607dfd2a09df8e8ec1ed41e10f8351/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/74640ffd4124306753b4535307b2cbaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/74640ffd4124306753b4535307b2cbaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/3ff00eb0ed145b462e72a84bdf32aa94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/3ff00eb0ed145b462e72a84bdf32aa94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c6d8513546ae36141ce64635d188c776/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c6d8513546ae36141ce64635d188c776/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2aec92e79756538c6c00d34c94430c1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2aec92e79756538c6c00d34c94430c1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/82ef3f45fb6631ef52c25a54c46cf739/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/82ef3f45fb6631ef52c25a54c46cf739/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d8949c02b7e6861765dc61cb527ec3dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d8949c02b7e6861765dc61cb527ec3dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/918f2fa4090ac9ea145e8a0c5e2d43b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/918f2fa4090ac9ea145e8a0c5e2d43b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b8f2d8ef5567afde2e6397385919658b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b8f2d8ef5567afde2e6397385919658b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/57e7062e9f7adf73c5e826d1acf5a91a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/57e7062e9f7adf73c5e826d1acf5a91a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2ad7f8cfc071b40967f72eb3d5095b55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2ad7f8cfc071b40967f72eb3d5095b55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b54875b46b4e4a9913842485246806c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b54875b46b4e4a9913842485246806c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/fad1ee0549d73ea889463a2db4ff1eee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/fad1ee0549d73ea889463a2db4ff1eee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/11658aa890d81b84e22e2eb39849ec87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/11658aa890d81b84e22e2eb39849ec87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/f87af231f4b6129475488a0891dc03c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/f87af231f4b6129475488a0891dc03c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/5f077ff2c2ce886d1a56a1b7d64bb58a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/5f077ff2c2ce886d1a56a1b7d64bb58a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/d42826dab7eea9b7dd9ea0cac1f0659e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/d42826dab7eea9b7dd9ea0cac1f0659e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9e15126a09a55a21f3077414a4a647d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9e15126a09a55a21f3077414a4a647d6/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/15f9cf279aa2d9119a80a4b5300d40bf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/15f9cf279aa2d9119a80a4b5300d40bf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/8e7da2263974039744421919e3404733/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.10.0.aar/8e7da2263974039744421919e3404733/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/98ea88824bcaf2441ae22f79d76672aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/98ea88824bcaf2441ae22f79d76672aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/3e076dc62d171dc99f25c0296454fa31/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.10.0.aar/3e076dc62d171dc99f25c0296454fa31/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/f39bc98d2b9eeb260eed78fb528948ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.10.0.aar/f39bc98d2b9eeb260eed78fb528948ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/9a8276f108b6d8eb313f36181b07bcfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.10.0.aar/9a8276f108b6d8eb313f36181b07bcfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a0d777f65c09a5972b19ecf83db6fa54/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a0d777f65c09a5972b19ecf83db6fa54/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/53176990a088dcb6c9c82c4596fdf2ba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.10.0.aar/53176990a088dcb6c9c82c4596fdf2ba/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nehagulati/Desktop/demo/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/nehagulati/Desktop/demo/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /Users/nehagulati/Desktop/demo/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/2e2a5c314a5b882e2ae6ee4636b94e43/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/2e2a5c314a5b882e2ae6ee4636b94e43/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/2e2a5c314a5b882e2ae6ee4636b94e43/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/2e2a5c314a5b882e2ae6ee4636b94e43/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9ae875933d37067f28812b26ad0b4779/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9ae875933d37067f28812b26ad0b4779/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/9ae875933d37067f28812b26ad0b4779/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/b1d9baa48be54d78d9ac05f0ea098c97/AndroidManifest.xml:26:13-120
