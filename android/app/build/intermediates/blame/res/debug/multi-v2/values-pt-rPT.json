@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nehagulati/Desktop/demo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "/Users/nehagulati/Desktop/MADHURI/React Native/demo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
                     "source": "/Users/nehagulati/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/2e2a5c314a5b882e2ae6ee4636b94e43/res/values-pt-rPT/values.xml",

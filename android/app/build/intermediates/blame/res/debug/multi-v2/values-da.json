@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nehagulati/Desktop/demo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
+            "outputFile": "/Users/nehagulati/Desktop/MADHURI/React Native/demo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
             "map": [
                 {
                     "source": "/Users/nehagulati/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/d8949c02b7e6861765dc61cb527ec3dd/res/values-da/values-da.xml",
